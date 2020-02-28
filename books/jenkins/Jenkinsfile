@@ -13,7 +13,7 @@ pipeline {
         //TODO: Edit these vars as per your env
         DEV_PROJECT = "cabalds-books-dev"
         STAGE_PROJECT = "cabalds-books-stage"
-        APP_GIT_URL = "https://github.com/cabald/DO288-apps"
+        APP_GIT_URL = "https://github.com/cabalds/DO288-apps"
         NEXUS_SERVER = "nexus-common.apps.ocp-ap3.prod.nextcle.com"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
